@@ -1,0 +1,2 @@
+# lamp
+LAMP Automation Setup
