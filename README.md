@@ -26,7 +26,7 @@ Before you begin, ensure you have the following installed on your machine:
 3. Run the setup script:
 
     ```bash
-    bash setup.sh
+    bash install.sh
     ```
 
     Follow the prompts to configure your LAMP stack. You can customize options such as PHP version, port, PHP extensions, Composer, Laravel, MariaDB, phpMyAdmin, and more.
